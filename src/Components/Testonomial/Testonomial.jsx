@@ -14,12 +14,6 @@ const Testonomials=()=>{
             link:"https://www.instagram.com/fashion_ki_dukan_apni/",
             review:
              "Welcome to Fashion Ki Dukan Apani, your go-to destination for online retailing and reselling. Explore our carefully selected collection of premium products, spanning fashion, home decor, electronics, and more. Follow us on Instagram for exclusive deals, trend alerts, and an effortless shopping experience, delivered right to your fingertips.",
-        },
-        {
-            img: LadiesStyless,
-            link:"https://www.instagram.com/ladies_styless_/",
-            review:
-             "Discover a world of curated products at Ladies Styless. We offer a wide range of high-quality items, from fashion to small electronics, delivered right to your doorstep. Follow us on Instagram for the latest trends, exclusive deals, and a seamless shopping experience.",
         }
     ]
 
